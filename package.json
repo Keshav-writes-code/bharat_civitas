@@ -27,7 +27,7 @@
     "@unocss/preset-web-fonts": "^66.5.9",
     "@unocss/reset": "^66.5.10",
     "@unocss/transformer-variant-group": "^66.5.10",
-    "prettier": "^3.7.4",
+    "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
     "unocss": "^66.5.10"
   }
